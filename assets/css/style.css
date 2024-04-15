@@ -1,0 +1,22 @@
+*{margin: 0;
+  padding:0;
+  border: 0;}
+
+
+
+  #logo{font-family: "Lobster", sans-serif; 
+    font-size: 46px;
+    font-weight: 400;
+    font-style: normal;
+    color: #ffffff;}
+
+  #principalpizza{height: 384px; width: 482px;}
+  #recetas{display: inline-flex;}
+
+  #subscribe{height: 534px;
+     background-color:#DC3545;
+     font-display: center;}
+     
+  .footlogo{height: 125px; 
+  background-color:#373A3C;}
+  
